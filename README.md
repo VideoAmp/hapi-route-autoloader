@@ -32,4 +32,4 @@ server.register(require("@videoamp/hapi-route-autoloader")("controllers/"))
 
 ## Folder Structure
 Files inside of the specified directory can export either an array of routes or a single
-route object. See [the fixtures folder]() in `test/` for an example.
+route object. See [the fixtures folder](https://github.com/VideoAmp/hapi-route-autoloader/tree/master/test/fixtures) in `test/` for an example.
