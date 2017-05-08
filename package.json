@@ -1,0 +1,29 @@
+{
+  "name": "@videoamp/hapi-route-autoloader",
+  "version": "1.0.0",
+  "description": "Loads Hapi routes according to VideoAmp Hapi project structure.",
+  "main": "index.js",
+  "author": "Edward Bramanti <edward@bramanti.org>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha --globals testApp,chai test/boot.js \"test/**/*_test.js\" --reporter=dot",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-subset": "^1.5.0",
+    "co-mocha": "^1.2.0",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.1.3",
+    "eslint-config-videoamp": "^2.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-mocha": "^4.9.0",
+    "hapi": "^16.1.1",
+    "mocha": "^3.3.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "require-all": "^2.2.0",
+    "traverse": "^0.6.6"
+  }
+}

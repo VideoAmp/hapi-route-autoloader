@@ -1,0 +1,6 @@
+{
+  "extends": "videoamp",
+  "env": {
+      "node": true
+  },
+}
