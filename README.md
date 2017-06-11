@@ -1,5 +1,6 @@
 Hapi Route Autoloader
 ===============================
+[![Build Status](https://semaphoreci.com/api/v1/videoamp/hapi-route-autoloader/branches/master/badge.svg)](https://semaphoreci.com/videoamp/hapi-route-autoloader)
 [![npm version](https://badge.fury.io/js/%40videoamp%2Fhapi-route-autoloader.svg)](https://badge.fury.io/js/%40videoamp%2Fhapi-route-autoloader)
 
 A Hapi plugin that provides an auto-loader for Hapi routes from a specified directory.
