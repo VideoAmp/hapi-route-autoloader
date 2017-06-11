@@ -1,6 +1,6 @@
 {
   "name": "@videoamp/hapi-route-autoloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Loads Hapi routes according to VideoAmp Hapi project structure.",
   "main": "index.js",
   "author": "Edward Bramanti <edward@bramanti.org>",
