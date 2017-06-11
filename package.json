@@ -4,7 +4,7 @@
   "description": "Loads Hapi routes according to VideoAmp Hapi project structure.",
   "main": "index.js",
   "author": "Edward Bramanti <edward@bramanti.org>",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "scripts": {
     "test": "mocha --globals testApp,chai test/boot.js \"test/**/*_test.js\" --reporter=dot",
     "lint": "eslint ."
